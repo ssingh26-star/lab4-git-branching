@@ -13,8 +13,6 @@ def left_path():
 
 def right_path():
     print("You walk right and encounter a talking squirrel who challenges you to a duel.")
-    print("You easily defeat the squirrel, but dark magic corrupts your soul.")
-    print("You become an evil overlord destined to conquer the kingdom.")
 
 if __name__ == "__main__":
     intro()
