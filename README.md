@@ -23,4 +23,4 @@ You will:
 - [ ] At least 3 branches (`main`, `hero-path`, `villain-path`)
 - [ ] Each branch has its own unique story version
 - [ ] At least 2 commits per branch
-- [ ] Changes are pushed to GitHub from EC2 or local
+- [ ] Changes are pushed to GitHub from EC2 and local
